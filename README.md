@@ -1,4 +1,4 @@
-# Indian License Plate Detection || Mosaic'21 Round-2:
+# Indian License Plate Detection || Mosaic'22 Round-2:
 ## Introduction:
 This Project of automatic character recognition is used to detect Indian number plates from even the busiest streets and predict them to monitor unusual activities.<br/>
 The project for the round 2 of Mosaic(IIT BHU ECE departmental fest) made us detect the plates first from any image then predict it. Methods of yolo is being implemented to achieve staggering result of license plate detection with an accuracy of 97.8%.<br/>
